@@ -5,13 +5,13 @@
   - [Lists](#Lists)
   - [Links](#Links)
   - [Images](#Images)
-  - [Code and Syntax Highlighting](#Code and Syntax Highlighting)
+  - [Code and Syntax Highlighting](#CodeandSyntaxHighlighting)
   - [Images](#Images)
   - [Tables](#Tables)
   - [Blockquotes](#Blockquotes)
-  - [Horizontal Rule](#Horizontal Rule)
-  - [Line Breaks](#Line Breaks)
-  - [YouTube Videos](#YouTube Videos)
+  - [Horizontal Rule](#HorizontalRule)
+  - [Line Breaks](#LineBreaks)
+  - [YouTube Videos](#YouTubeVideos)
   
 
 # Headers
