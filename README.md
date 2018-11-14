@@ -1,17 +1,17 @@
 # Markdown Cheatsheet Guide
 
-  - [Header](# Headers)
-  - [Emphasis](# Emphasis)
-  - [List](# List)
-  - [Links](# Links)
-  - [Images](# Images)
-  - [Code and Syntax Highlighting](# Code and Syntax Highlighting)
-  - [Images](# Images)
-  - [Tables](# Tables)
-  - [Blockquotes](# Blockquotes)
-  - [Horizontal Rule](# Horizontal Rule)
-  - [Line Breaks](# Line Breaks)
-  - [YouTube Videos](# YouTube Videos)
+  - [Header](#Headers)
+  - [Emphasis](#Emphasis)
+  - [Lists](#Lists)
+  - [Links](#Links)
+  - [Images](#Images)
+  - [Code and Syntax Highlighting](#Code and Syntax Highlighting)
+  - [Images](#Images)
+  - [Tables](#Tables)
+  - [Blockquotes](#Blockquotes)
+  - [Horizontal Rule](#Horizontal Rule)
+  - [Line Breaks](#Line Breaks)
+  - [YouTube Videos](#YouTube Videos)
   
 
 # Headers
@@ -65,7 +65,7 @@ Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
-# List
+# Lists
 ```
     1. First ordered list item
     2. Another item
@@ -150,10 +150,10 @@ Some text to show that the reference links can follow later.
 [link text itself]: http://www.reddit.com
 
 # Images
-Here's our logo (hover to see the title text):
-
-Inline-style: 
 ```
+    Here's our logo (hover to see the title text):
+
+    Inline-style: 
     ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
     Reference-style: 
@@ -162,6 +162,9 @@ Inline-style:
     [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 ```
 
+Here's our logo (hover to see the title text):
+
+Inline-style: 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 Reference-style: 
@@ -254,13 +257,17 @@ Markdown | Less | Pretty
 ```
     > Blockquotes are very handy in email to emulate reply text.
     > This line is part of the same quote.
+
     Quote break.
+
     > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
 ```
 
 > Blockquotes are very handy in email to emulate reply text.
 > This line is part of the same quote.
+
 Quote break.
+
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
 
 # Horizontal Rule
@@ -312,8 +319,9 @@ This line is also a separate paragraph, but...
 This line is only separated by a single newline, so it's a separate line in the *same paragraph*
 
 # YouTube Videos
-```
-    [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 ```
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kNRIFhkYONc/0.jpg)](https://www.youtube.com/watch?v=kNRIFhkYONc)
+
+```
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kNRIFhkYONc/0.jpg)](https://www.youtube.com/watch?v=kNRIFhkYONc)
